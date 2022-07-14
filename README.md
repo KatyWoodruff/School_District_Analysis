@@ -17,16 +17,16 @@ How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 
 
-##Scores by school spending
+## Scores by school spending
 
 ![Screenshot 2022-07-13 211123](https://user-images.githubusercontent.com/107223650/178903748-b12e2d40-61b0-4c9e-95b5-9b802e412b17.png)
 
-##Scores by school size
+## Scores by school size
 
 ![Screenshot 2022-07-13 211159](https://user-images.githubusercontent.com/107223650/178903817-24c692f4-402a-4ef6-adae-274268543b28.png)
 
 
-##Scores by school type
+## Scores by school type
 
 ![Screenshot 2022-07-13 211236](https://user-images.githubusercontent.com/107223650/178903838-4357b844-3927-4a87-ab11-0410b6403197.png)
 
