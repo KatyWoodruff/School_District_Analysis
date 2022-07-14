@@ -7,16 +7,16 @@ I removed altered score data from the school district's testing data in order to
 
 ### How is the district summary affected?
 After removing the altered test scores, the district summary was adjusted in the following ways:
--The average math scores went up by .1
--The passing math percentage went up by %.2
--The passing reading percentage went down by %.1
--The overall passing percentage went down by %.8
+*The average math scores went up by .1
+*The passing math percentage went up by %.2
+*The passing reading percentage went down by %.1
+*The overall passing percentage went down by %.8
 
 ## How is the school summary affected?
 The Thomas High School Summary was affected with an uptick in and passing percentages:
--The passing math percentage went up by %26.3
--The passing reading percentage went up by %27.4
--The overall passing percentage went up by %25.6
+*The passing math percentage went up by %26.3
+*The passing reading percentage went up by %27.4
+*The overall passing percentage went up by %25.6
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 It does not affect the score averages for the school, but does increase the passing percentages by a significant margin.
